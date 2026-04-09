@@ -3,6 +3,7 @@
 *.vcd
 *.exe
 *.out
+*.pdf
 obj_dir/
 BACKUP/
 karan's/
