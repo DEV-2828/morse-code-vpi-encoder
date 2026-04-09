@@ -18,3 +18,6 @@ This project implements a hardware Morse Code Encoder in Verilog, designed to tr
 - `morse_encoder.v`: Core combinational logic for ASCII to Morse translation.
 - `tb_morse.v`: Testbench driving the simulation with continuous strings.
 - `morse_vpi.c`: C module bridging simulator states to the console output.
+
+## Documentation
+For a full technical deep-dive — including the FSM state diagram, port tables, build instructions, and sample output — refer to the [**DOCUMENTATION.md**](./DOCUMENTATION.md).
