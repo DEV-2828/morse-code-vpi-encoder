@@ -3,10 +3,8 @@
 
 | Field | Detail |
 |---|---|
-| **Authors** | Devopam Pal, Karan Varshney |
-| **SRN** | PES2UG24CS152, PES2UG24CS903 |
-| **Section** | C |
-| **Date** | 10-Nov-2025 |
+| **Authors** | Devopam Pal |
+| **SRN** | PES2UG24CS152|
 
 ---
 
