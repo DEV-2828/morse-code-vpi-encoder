@@ -1,0 +1,8 @@
+*.o
+*.vpi
+*.vcd
+*.exe
+*.out
+obj_dir/
+BACKUP/
+karan's/
